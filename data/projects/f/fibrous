@@ -1,0 +1,19 @@
+version: 7
+name: fibrous
+display_name: Fibrous
+description: Fibrous delivers the best trade execution with advanced aggregation, innovative features, and low fees—powering seamless DeFi trading on its interface and APIs.
+websites:
+- url: https://fibrous.finance/
+social:
+  twitter:
+  - url: https://x.com/FibrousFinance
+  telegram:
+  - url: https://t.me/caner_fibrous
+  discord:
+  - url: https://discord.gg/fibrous
+github:
+- url: https://github.com/Fibrous-Finance/router-sdk
+- url: https://github.com/Fibrous-Finance/Fibrous-tokens
+- url: https://github.com/Fibrous-Finance/router-python-sdk
+- url: https://github.com/Fibrous-Finance/How-to-use-Fibrous-SDK
+- url: https://github.com/Fibrous-Finance/fibrous-aggregator-contracts
